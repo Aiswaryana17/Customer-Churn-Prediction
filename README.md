@@ -1,4 +1,3 @@
-# Customer-Churn-Prediction
 # Customer Churn Prediction
 
 A Python-based machine learning project to predict customer churn using logistic regression.
